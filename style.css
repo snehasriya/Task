@@ -13,12 +13,12 @@ body {
 .box {
   display: flex;
   align-items: left;
-  justify-content: center;
+  justify-content: left;
   margin-top: 3rem;
 }
 .form {
   display: flex;
-  align-items: center;
+  align-items: left;
   flex-direction: column;
   background-color: white;
   width: 600px;
