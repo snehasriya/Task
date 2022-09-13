@@ -23,7 +23,7 @@ body {
   background-color: rgb(437, 110, 86);
   width: 800px;
   height: 600px;
-  box-shadow: 2px 4px 10px gray;
+  box-shadow: 2px 4px 10px black;
   border: 1px solid white;
   border-radius: 20px,10px;
   padding: 20px;
