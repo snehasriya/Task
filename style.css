@@ -21,8 +21,8 @@ body {
   align-items: center;
   flex-direction: column;
   background-color: rgb(437, 110, 86);
-  width: 800px;
-  height: 600px;
+  width: 750px;
+  height: 500px;
   box-shadow: 2px 4px 10px black;
   border: 1px solid white;
   border-radius: 20px,10px;
