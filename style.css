@@ -22,7 +22,7 @@ body {
   flex-direction: column;
   background-color: rgb(451, 107, 84);
   width: 800px;
-  height: 800px;
+  height: 600px;
   box-shadow: 2px 4px 10px gray;
   border: 1px solid white;
   border-radius: 20px,10px;
