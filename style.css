@@ -12,26 +12,26 @@ body {
 }
 .box {
   display: flex;
-  align-items: left;
-  justify-content: left;
+  align-items: center;
+  justify-content: center;
   margin-top: 3rem;
 }
 .form {
   display: flex;
-  align-items: left;
+  align-items: center;
   flex-direction: column;
   background-color: white;
-  width: 600px;
-  height: 500px;
+  width: 800px;
+  height: 400px;
   box-shadow: 2px 4px 10px gray;
   border: 1px solid white;
-  border-radius: 20px;
+  border-radius: 20px,10px;
   padding: 20px;
 }
 .input {
   padding: 10px 15px;
   border: 2px solid rgba(0, 0, 0, 0.4);
-  font-size: 18px;
+  font-size: 22px;
   outline: none;
   border-radius: 10px;
   background-color: rgba(0, 0, 0, 0.02);
