@@ -57,7 +57,6 @@ input:invalid:focus {
 }
 
 .table {
-  float:right;
   border: 2px solid black;
   margin: 40px auto;
 }
